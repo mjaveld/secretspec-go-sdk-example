@@ -1,0 +1,4 @@
+github.com/cachix/secretspec/secretspec-go v0.17.0 h1:578LPt3A34irnGi0MynTQZulWzNmOyWnKe/npO+89Xk=
+github.com/cachix/secretspec/secretspec-go v0.17.0/go.mod h1:4QjSax/Qd3JXEqNFUwvov93jnhVD1PmcDbeQBLg2r9Y=
+github.com/ebitengine/purego v0.8.2 h1:jPPGWs2sZ1UgOSgD2bClL0MJIqu58nOmIcBuXr62z1I=
+github.com/ebitengine/purego v0.8.2/go.mod h1:iIjxzd6CiRiOG0UyXP+V1+jWqUXVjPKLAI0mRfJZTmQ=

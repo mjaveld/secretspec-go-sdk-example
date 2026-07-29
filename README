@@ -1,0 +1,1 @@
+export SECRETSPEC_FFI_LIB=./lib/secretspec_ffi_linux_amd64.so
